@@ -1,0 +1,1 @@
+web: gunicorn django-blog-2525.wsgi
